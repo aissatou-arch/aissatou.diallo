@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est [Votre Prénom & Nom] !
+#  Bonjour, moi c'est Aissatou DIALLO !
 
 ### Data / AI Engineer | Spécialisée en IA Générative, RAG & Pipelines de données
 
@@ -47,8 +47,8 @@ Actuellement, je développe **AI Property Auditor**, un produit PropTech innovan
 
 ###  Entrons en contact !
 
-* **LinkedIn :** [Mon Profil LinkedIn](https://[votre-profil-linkedin])
-* **Email :** [votre.email@domain.com]
+* **LinkedIn :** [Mon Profil LinkedIn](https://[aissatoudiallo15])
+* **Email :** [aissatoudiallopro1@gmail.com]
 * **Portfolio / Projets :** *Vous êtes déjà au bon endroit !*
 
 ✨ *Toujours curieuse d'explorer de nouveaux défis en Data & IA — n'hésitez pas à me contacter pour échanger sur une opportunité ou un projet technique !*
