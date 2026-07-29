@@ -47,7 +47,7 @@ Actuellement, je développe **AI Property Auditor**, un produit PropTech innovan
 
 ###  Entrons en contact !
 
-* **LinkedIn :** [Mon Profil LinkedIn](https://[[aissatoudiallo15](https://www.linkedin.com/in/aissatoudiallo15/)])
+* **LinkedIn :** [Mon Profil LinkedIn](https://www.linkedin.com/in/aissatoudiallo15/)
 * **Email :** [aissatoudiallopro1@gmail.com]
 * **Portfolio / Projets :** *Vous êtes déjà au bon endroit !*
 
