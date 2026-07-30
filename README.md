@@ -1,3 +1,7 @@
+# À propos de moi
+
+<img src="img/aD.jpg" alt="Aissatou DIALLO" width="150" style="border-radius: 50%;"/>
+
 #  Bonjour, moi c'est Aissatou DIALLO 
 
 ### Data / AI Engineer | Spécialisée en IA Générative, RAG & Pipelines de données
